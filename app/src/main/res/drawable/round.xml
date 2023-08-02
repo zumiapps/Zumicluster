@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <solid android:color="#000000" /> <!-- Set the color you want for the shape -->
+    <!-- You can also define other properties here if needed, like stroke and corner radius -->
+</shape>
